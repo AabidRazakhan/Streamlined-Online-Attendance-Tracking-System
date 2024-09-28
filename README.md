@@ -52,6 +52,12 @@ You should now be able to access the login page and use the system.
 # 5. Default Admin Credentials
 Username: admin
 Password: password123 (You can modify this in the database or through the admin panel.)
+# Screenshots
+
+![Screenshot (184)](https://github.com/user-attachments/assets/3175a530-e727-4d59-b6cf-42e4127db0c0)
+![Screenshot (186)](https://github.com/user-attachments/assets/87806593-2b7c-4a1c-a3cb-3fb99663bdb9)
+![Screenshot (188)](https://github.com/user-attachments/assets/a44248a3-2146-4bf4-9626-264b0608fb2b)
+![Screenshot (190)](https://github.com/user-attachments/assets/e664014b-4a43-45fd-89f1-cbdd1ba75fa6)
 
 # Future Enhancements
 Student Login: Allow students to log in and view their own data and performance.
