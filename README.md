@@ -71,7 +71,7 @@ Copy code
 http://localhost/Student-management-system
 
 # Usage
-# Dashboard: From the main dashboard, you can view all students' records, add a new student, update details, or delete a student.
-# Add Student: Fill in the form with personal and academic details, and submit it to add a new student.
-# Update Student: Click on a student’s record to edit their information.
-# Delete Student: Remove a student from the system by clicking the delete button next to their record.
+Dashboard: From the main dashboard, you can view all students' records, add a new student, update details, or delete a student.
+Add Student: Fill in the form with personal and academic details, and submit it to add a new student.
+Update Student: Click on a student’s record to edit their information.
+Delete Student: Remove a student from the system by clicking the delete button next to their record.
