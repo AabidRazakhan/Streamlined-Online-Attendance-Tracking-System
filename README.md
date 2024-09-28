@@ -56,8 +56,8 @@ Password: password123 (You can modify this in the database or through the admin 
 
 ![Screenshot (184)](https://github.com/user-attachments/assets/3175a530-e727-4d59-b6cf-42e4127db0c0)
 ![Screenshot (190)](https://github.com/user-attachments/assets/9f8eba24-636c-43cb-b01b-9714b5ef91b1)
-![Screenshot (188)](https://github.com/user-attachments/assets/041f3adb-a98c-4fde-8c80-32fa96821a02)
-![Screenshot (187)](https://github.com/user-attachments/assets/3776fa18-e26d-4ac6-a9bf-7a84694c48aa)
+![Screenshot (191)](https://github.com/user-attachments/assets/5995a555-54d6-4d73-a023-14da97c9af00)
+![Screenshot (188)](https://github.com/user-attachments/assets/1a7af234-3638-4672-87b5-51f12c48f26d)
 
 # Future Enhancements
 Student Login: Allow students to log in and view their own data and performance.
