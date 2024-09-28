@@ -21,6 +21,7 @@ The application is responsive and can be accessed on different devices, includin
 The system leverages the following technologies:
 
 PHP: Backend server-side language for processing and handling logic.
+
 HTML5 & CSS3: Frontend structure and styling.
 JavaScript: Frontend scripting for dynamic elements.
 MySQL: Relational database for storing student, admin, and academic information.
