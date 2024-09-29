@@ -1,4 +1,4 @@
-# Web-based Student Management System
+# Streamlined Online Attendance & Tracking System
 Web-based Student Management System is a simple, efficient, and user-friendly platform built using PHP, HTML, CSS, JavaScript, and MySQL. It allows educational institutions to manage student information, records, and academic performance digitally. This system can be used by administrators and teachers to easily manage student data, making it an ideal project for college and school systems.
 
 # Features
