@@ -34,7 +34,6 @@ Bootstrap 4: For responsive and mobile-first UI design.
 # Installation Instructions
 # 1. Clone the Repository
 Clone the repository from GitHub to your local machine:
-```bash
 git clone https://github.com/AabidRazakhan/Student-management-system.git
 # 2. Set Up Database
 Create a new MySQL database.
