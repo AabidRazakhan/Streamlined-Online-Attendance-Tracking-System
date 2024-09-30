@@ -43,7 +43,7 @@ Follow these steps to set up the Student Management System on your local machine
 1. **Clone the Repository**  
    Clone the repository from GitHub to your local machine:  
    ```bash
-   git clone https://github.com/AabidRazakhan/Student-management-system.git
+   https://github.com/AabidRazakhan/Streamlined-Online-Attendance-Tracking-System.git
 2. **Set Up Database**
 
 - Create a new MySQL database.
